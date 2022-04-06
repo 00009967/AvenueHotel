@@ -7,4 +7,12 @@
     <RootNamespace>_00009967</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Helper\Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Exchange.WebServices" Version="2.2.0" />
+  </ItemGroup>
+
 </Project>
